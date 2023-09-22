@@ -1,7 +1,7 @@
 #include <stdio.h>
 
-//int Grade(){
-    int main(){
+int Grade(){
+//    int main(){
         int marks1 ;
         int marks2 ;
 
